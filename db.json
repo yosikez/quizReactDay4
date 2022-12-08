@@ -1,0 +1,189 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Hello Everyone",
+      "body": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quidem itaque sint adipisci facilis tenetur necessitatibus explicabo perspiciatis delectus vitae laudantium."
+    },
+    {
+      "id": 2,
+      "title": "Bro?????",
+      "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Odio minus, eius aspernatur ipsa magnam quidem ipsam dolorum laboriosam debitis sit veritatis, vero placeat voluptatem fugiat non pariatur illo voluptate esse corrupti vel cum at suscipit atque. Quae perferendis debitis veniam. Minima ipsum hic eius optio recusandae ex laudantium id similique."
+    },
+    {
+      "id": 3,
+      "title": "One Piece",
+      "body": "One Piece is a Japanese manga series written and illustrated by Eiichiro Oda. It has been serialized in Shueisha's shōnen manga magazine Weekly Shōnen Jump since July 1997, with its individual chapters compiled into 104 tankōbon volumes as of November 2022. The story follows the adventures of Monkey D. Luffy, a boy whose body gained the properties of rubber after unintentionally eating a Devil Fruit. With his pirate crew, the Straw Hat Pirates, Luffy explores the Grand Line in search of the deceased King of the Pirates Gol D. Roger's ultimate treasure known as the 'One Piece' in order to become the next King of the Pirates."
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "13",
+      "age": "12",
+      "email": "ss@gma.com"
+    },
+    {
+      "id": 4,
+      "name": "Kemana?",
+      "age": "1",
+      "email": "12@gm.cm"
+    },
+    {
+      "name": "Naruto",
+      "age": "70",
+      "email": "naruto@konoha.com",
+      "id": 5
+    },
+    {
+      "id": 6,
+      "name": "Ykz",
+      "age": "20",
+      "email": "ykz@gmail.com"
+    },
+    {
+      "name": "Nana",
+      "age": "99",
+      "email": "nana@gmail.com",
+      "id": 7
+    },
+    {
+      "name": "binbin",
+      "age": "17",
+      "email": "binbin@gmail.com",
+      "id": 8
+    },
+    {
+      "name": "tttt",
+      "age": "12",
+      "email": "nnnn@gmail.com",
+      "id": 9
+    },
+    {
+      "name": "12341243",
+      "age": "99",
+      "email": "FFF@gmail.com",
+      "id": 10
+    },
+    {
+      "name": "sdfghjkl",
+      "age": "99",
+      "email": "gnn@gmail.com",
+      "id": 11
+    },
+    {
+      "name": "12",
+      "age": "12",
+      "email": "12@gmail",
+      "id": 12
+    },
+    {
+      "name": "Yosi Kesuma",
+      "age": "12",
+      "email": "KESUMA@GMAIL.COM",
+      "id": 13
+    },
+    {
+      "name": "WWWW",
+      "age": "111",
+      "email": "WW@g.cm",
+      "id": 14
+    },
+    {
+      "name": "12hhhggg",
+      "age": "12",
+      "email": "afa@mds.cm",
+      "id": 15
+    },
+    {
+      "name": "12",
+      "age": "21",
+      "email": "yos@g.sc",
+      "id": 16
+    },
+    {
+      "name": "123",
+      "age": "123",
+      "email": "hhh@gm.com",
+      "id": 17
+    },
+    {
+      "name": "oop",
+      "age": "1223",
+      "email": "oop@gmail.com",
+      "id": 18
+    },
+    {
+      "name": "kkk",
+      "age": "12",
+      "email": "12wq@gm.com",
+      "id": 19
+    },
+    {
+      "name": "Natuo",
+      "age": "123",
+      "email": "hhh@gmail.com",
+      "id": 20
+    },
+    {
+      "name": "12dfsdfsdf",
+      "age": "12",
+      "email": "12gg@sasd.mc",
+      "id": 21
+    },
+    {
+      "name": "Ridho",
+      "age": "20",
+      "email": "rydhz@gmail.com",
+      "id": 22
+    },
+    {
+      "name": "12",
+      "age": "12",
+      "email": "12@fg.m",
+      "id": 23
+    },
+    {
+      "name": "rrr",
+      "age": "12",
+      "email": "wqew@mg.com",
+      "id": 24
+    },
+    {
+      "name": "h",
+      "age": "23",
+      "email": "h@m.com",
+      "id": 25
+    },
+    {
+      "name": "",
+      "age": "",
+      "email": "",
+      "id": 26
+    },
+    {
+      "name": "",
+      "age": "",
+      "email": "",
+      "id": 27
+    },
+    {
+      "name": "Perempuan",
+      "age": "28",
+      "email": "perempuan@gmail.com",
+      "id": 28
+    },
+    {
+      "name": "23",
+      "age": "23",
+      "email": "23@g.cm",
+      "id": 29
+    },
+    {
+      "id": 30,
+      "name": "kkk",
+      "age": "12",
+      "email": "kk@mf.com"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+.dataList {
+    display: flex;
+    flex-direction: column;
+    background-color: var(--color-blue);
+    border-radius: 15px;
+    padding: 20px;
+}
+.dataItem {
+    display: grid;
+    grid-template-columns: 0.5fr 1fr;
+    grid-gap: 10px;
+    
+}

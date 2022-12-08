@@ -1,0 +1,17 @@
+.Form-wrap {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    text-align: center;
+    align-items: center;
+}
+.Form {
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.Form .ant-btn {
+    display: flex;
+    width: max-content;
+}
